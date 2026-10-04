@@ -61,11 +61,6 @@ Curious by nature, always learning, building, and breaking things to understand 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Krypton-sat&bg_color=00000000&color=e5484d&line=e5484d&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Krypton-sat">Krypton-sat</a></i></p>
