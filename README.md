@@ -1,25 +1,3 @@
-Profile Studio
-README.md builder
-
-Theme
-
-
-Your README is ready
-Grab the markdown, or start a fresh profile. Publishing it takes about 30 seconds.
-
-Download README.md
-Copy markdown
-Share
-Publish it to your profile
-Create a new public repo named exactly Krypton-sat (same as your username).
-Add the README.md file you just downloaded.
-Visit github.com/Krypton-sat — it shows on your profile.
-Keep editing
-Create another profile
-Preview
-Markdown
-Copy
-Download
 <p align="center">
   <a href="https://github.com/Krypton-sat">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e5484d&fontSize=54&height=90&width=442&text=Krypton-sat" alt="Krypton-sat" />
@@ -54,13 +32,14 @@ Curious by nature, always learning, building, and breaking things to understand 
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Krypton-sat">Krypton-sat</a></i></p>
