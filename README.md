@@ -1,4 +1,4 @@
-<a href="https://github.com/Krypton-sat">
+<a href="">
 <img src="https://raw.githubusercontent.com/Krypton-sat/Krypton-sat/main/header.svg" width="100%" alt="Sleek Hero">
 
 <br/>
